@@ -1,6 +1,8 @@
 Micro.JS
 ====================
 
+**This is old and unmaintained, don't use this.**
+
 Micro.JS is a little thing I made in some spare time from an idea. Basically, it's a framework for extreme script compression, something especially useful for large, complex scripts.
 
 At only 6039 bytes after minification, it's pretty easy to load. How well can it compress things?
